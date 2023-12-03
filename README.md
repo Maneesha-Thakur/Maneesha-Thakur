@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning Frontend (React) **Web Development Course**
 
-- 👨‍💻 All of my projects are available at [https://](https://)
+- 👨‍💻 All of my projects are available at [https://](https://maneesha-thakur.github.io/)
 
 - 💬 Ask me about **HTML,CSS,Javascript,React**
 
