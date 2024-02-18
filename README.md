@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maneesha-thakur&label=Profile%20views&color=0e75b6&style=flat" alt="maneesha-thakur" /> </p>
 
-- 🌱 I’m currently learning Frontend (React) **Web Development Course**
+- 🌱 I’m a Full Stack Web Developer 
 
 - 👨‍💻 All of my projects are available at [https://65d1c3472c9d7a12ba770ad2--cozy-meerkat-f1606c.netlify.app/#contact)
 
-- 💬 Ask me about **HTML,CSS,Javascript,React**
+- 💬 Ask me about **HTML, CSS, Javascript, React, Node.js, Express , MongoDB (including Mongoose)**
 
 - 📫 How to reach me **manithakur4253@gmail.com**
 
