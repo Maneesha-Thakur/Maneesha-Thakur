@@ -9,7 +9,7 @@
 
 - 🌱 I’m a Full Stack Web Developer 
 
-- 👨‍💻 All of my projects are available at [https://65d1c3472c9d7a12ba770ad2--cozy-meerkat-f1606c.netlify.app/#contact)
+- 👨‍💻 All of my projects are available at [https://maneesha-thakur.github.io/)
 
 - 💬 Ask me about **HTML, CSS, Javascript, React, Node.js, Express , MongoDB (including Mongoose)**
 
