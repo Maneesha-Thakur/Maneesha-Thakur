@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning Frontend (React) **Web Development Course**
 
-- 👨‍💻 All of my projects are available at [https://](https://maneesha-thakur.github.io/)
+- 👨‍💻 All of my projects are available at [https://65d1c3472c9d7a12ba770ad2--cozy-meerkat-f1606c.netlify.app/#contact)
 
 - 💬 Ask me about **HTML,CSS,Javascript,React**
 
