@@ -15,8 +15,8 @@
 
 - 📫 How to reach me **manithakur4253@gmail.com**
 
-- 📄 Know about my experiences [https://test-resume.masaischool.com/resume?resumeId=6565cb0c70fde25ef189a136&selectedTemplate=TwoColumnMinimal](https://test-resume.masaischool.com/resume?resumeId=6565cb0c70fde25ef189a136&selectedTemplate=TwoColumnMinimal)
-
+- 📄 Know about my experiences [https://test-resume.masaischool.com/resume?resumeId=6565cb0c70fde25ef189a136&selectedTemplate=TwoColumnMinimal](https://test-resume.masaischool.com/resume?resumeId=65d1abcf3cddbad9ea2091c6&selectedTemplate=SmartStart)
+  
 - ⚡ Fun fact **I think I am funny .**
 
 <h3 align="left">Connect with me:</h3>
